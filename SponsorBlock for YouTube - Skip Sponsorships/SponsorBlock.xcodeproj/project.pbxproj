@@ -57,6 +57,8 @@
 		2DBA5D1F27210D8700BD0CFF /* help in Resources */ = {isa = PBXBuildFile; fileRef = 2DBA5D0727210D8700BD0CFF /* help */; };
 		2DF776DA2A9964A1003EA5AF /* shared.css in Resources */ = {isa = PBXBuildFile; fileRef = 2DF776D92A9964A1003EA5AF /* shared.css */; };
 		2DF776DB2A9964A1003EA5AF /* shared.css in Resources */ = {isa = PBXBuildFile; fileRef = 2DF776D92A9964A1003EA5AF /* shared.css */; };
+		CE85D9BB2F87547D004D04E4 /* AppIcon.icon in Resources */ = {isa = PBXBuildFile; fileRef = CE85D9BA2F87547D004D04E4 /* AppIcon.icon */; };
+		CE85D9BC2F87547D004D04E4 /* AppIcon.icon in Resources */ = {isa = PBXBuildFile; fileRef = CE85D9BA2F87547D004D04E4 /* AppIcon.icon */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -140,6 +142,7 @@
 		2DBA5D0727210D8700BD0CFF /* help */ = {isa = PBXFileReference; lastKnownFileType = folder; name = help; path = ../../SponsorBlock/dist/help; sourceTree = "<group>"; };
 		2DF776D92A9964A1003EA5AF /* shared.css */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.css; name = shared.css; path = ../../SponsorBlock/dist/shared.css; sourceTree = "<group>"; };
 		2DFDA9902A09DE9000FED7D2 /* ci_post_clone.sh */ = {isa = PBXFileReference; lastKnownFileType = text.script.sh; path = ci_post_clone.sh; sourceTree = "<group>"; };
+		CE85D9BA2F87547D004D04E4 /* AppIcon.icon */ = {isa = PBXFileReference; lastKnownFileType = folder.iconcomposer.icon; path = AppIcon.icon; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -194,6 +197,7 @@
 				2DBA5CA527210D8200BD0CFF /* ViewController.swift */,
 				2DBA5CA627210D8400BD0CFF /* Assets.xcassets */,
 				2DBA5C9F27210D8200BD0CFF /* Resources */,
+				CE85D9BA2F87547D004D04E4 /* AppIcon.icon */,
 			);
 			path = "Shared (App)";
 			sourceTree = "<group>";
@@ -426,6 +430,7 @@
 			files = (
 				2DBA5CDF27210D8500BD0CFF /* Icon.png in Resources */,
 				2DBA5CB627210D8400BD0CFF /* LaunchScreen.storyboard in Resources */,
+				CE85D9BB2F87547D004D04E4 /* AppIcon.icon in Resources */,
 				2DBA5CDD27210D8500BD0CFF /* Main.html in Resources */,
 				2DBA5CE327210D8500BD0CFF /* Script.js in Resources */,
 				2DBA5CE727210D8500BD0CFF /* Assets.xcassets in Resources */,
@@ -444,6 +449,7 @@
 				2DBA5CC527210D8500BD0CFF /* Main.storyboard in Resources */,
 				2DBA5CE427210D8500BD0CFF /* Script.js in Resources */,
 				2DBA5CE827210D8500BD0CFF /* Assets.xcassets in Resources */,
+				CE85D9BC2F87547D004D04E4 /* AppIcon.icon in Resources */,
 				2D270A5E2C3648880010199C /* ios_instructions.png in Resources */,
 				2DBA5CDE27210D8500BD0CFF /* Main.html in Resources */,
 			);
